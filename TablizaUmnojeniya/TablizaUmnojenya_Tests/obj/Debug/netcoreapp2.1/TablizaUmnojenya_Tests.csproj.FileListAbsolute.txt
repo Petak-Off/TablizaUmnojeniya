@@ -1,0 +1,4 @@
+C:\Users\пользователь\source\repos\TablizaUmnojeniya\TablizaUmnojenya_Tests\obj\Debug\netcoreapp2.1\TablizaUmnojenya_Tests.csprojAssemblyReference.cache
+C:\Users\пользователь\source\repos\TablizaUmnojeniya\TablizaUmnojenya_Tests\obj\Debug\netcoreapp2.1\TablizaUmnojenya_Tests.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\source\repos\TablizaUmnojeniya\TablizaUmnojenya_Tests\obj\Debug\netcoreapp2.1\TablizaUmnojenya_Tests.AssemblyInfoInputs.cache
+C:\Users\пользователь\source\repos\TablizaUmnojeniya\TablizaUmnojenya_Tests\obj\Debug\netcoreapp2.1\TablizaUmnojenya_Tests.AssemblyInfo.cs

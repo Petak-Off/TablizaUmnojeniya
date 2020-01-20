@@ -1,0 +1,11 @@
+C:\Users\пользователь\source\repos\TablizaUmnojeniya\TablizaUmnojeniya\bin\Debug\netcoreapp2.1\TablizaUmnojeniya.deps.json
+C:\Users\пользователь\source\repos\TablizaUmnojeniya\TablizaUmnojeniya\bin\Debug\netcoreapp2.1\TablizaUmnojeniya.runtimeconfig.json
+C:\Users\пользователь\source\repos\TablizaUmnojeniya\TablizaUmnojeniya\bin\Debug\netcoreapp2.1\TablizaUmnojeniya.runtimeconfig.dev.json
+C:\Users\пользователь\source\repos\TablizaUmnojeniya\TablizaUmnojeniya\bin\Debug\netcoreapp2.1\TablizaUmnojeniya.dll
+C:\Users\пользователь\source\repos\TablizaUmnojeniya\TablizaUmnojeniya\bin\Debug\netcoreapp2.1\TablizaUmnojeniya.pdb
+C:\Users\пользователь\source\repos\TablizaUmnojeniya\TablizaUmnojeniya\obj\Debug\netcoreapp2.1\TablizaUmnojeniya.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\source\repos\TablizaUmnojeniya\TablizaUmnojeniya\obj\Debug\netcoreapp2.1\TablizaUmnojeniya.AssemblyInfoInputs.cache
+C:\Users\пользователь\source\repos\TablizaUmnojeniya\TablizaUmnojeniya\obj\Debug\netcoreapp2.1\TablizaUmnojeniya.AssemblyInfo.cs
+C:\Users\пользователь\source\repos\TablizaUmnojeniya\TablizaUmnojeniya\obj\Debug\netcoreapp2.1\TablizaUmnojeniya.dll
+C:\Users\пользователь\source\repos\TablizaUmnojeniya\TablizaUmnojeniya\obj\Debug\netcoreapp2.1\TablizaUmnojeniya.pdb
+C:\Users\пользователь\source\repos\TablizaUmnojeniya\TablizaUmnojeniya\obj\Debug\netcoreapp2.1\TablizaUmnojeniya.csprojAssemblyReference.cache

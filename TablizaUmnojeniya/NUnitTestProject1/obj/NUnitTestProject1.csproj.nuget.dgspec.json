@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\пользователь\\source\\repos\\TablizaUmnojeniya\\NUnitTestProject1\\NUnitTestProject1.csproj": {}
+    "D:\\Загрузки\\Обучение\\Программирование\\TablizaUmnojeniya\\TablizaUmnojeniya\\NUnitTestProject1\\NUnitTestProject1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\пользователь\\source\\repos\\TablizaUmnojeniya\\NUnitTestProject1\\NUnitTestProject1.csproj": {
+    "D:\\Загрузки\\Обучение\\Программирование\\TablizaUmnojeniya\\TablizaUmnojeniya\\NUnitTestProject1\\NUnitTestProject1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\пользователь\\source\\repos\\TablizaUmnojeniya\\NUnitTestProject1\\NUnitTestProject1.csproj",
+        "projectUniqueName": "D:\\Загрузки\\Обучение\\Программирование\\TablizaUmnojeniya\\TablizaUmnojeniya\\NUnitTestProject1\\NUnitTestProject1.csproj",
         "projectName": "NUnitTestProject1",
-        "projectPath": "C:\\Users\\пользователь\\source\\repos\\TablizaUmnojeniya\\NUnitTestProject1\\NUnitTestProject1.csproj",
+        "projectPath": "D:\\Загрузки\\Обучение\\Программирование\\TablizaUmnojeniya\\TablizaUmnojeniya\\NUnitTestProject1\\NUnitTestProject1.csproj",
         "packagesPath": "C:\\Users\\пользователь\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\пользователь\\source\\repos\\TablizaUmnojeniya\\NUnitTestProject1\\obj\\",
+        "outputPath": "D:\\Загрузки\\Обучение\\Программирование\\TablizaUmnojeniya\\TablizaUmnojeniya\\NUnitTestProject1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\пользователь\\source\\repos\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya.csproj": {
-                "projectPath": "C:\\Users\\пользователь\\source\\repos\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya.csproj"
+              "D:\\Загрузки\\Обучение\\Программирование\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya.csproj": {
+                "projectPath": "D:\\Загрузки\\Обучение\\Программирование\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya.csproj"
               }
             }
           }
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\пользователь\\source\\repos\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya.csproj": {
+    "D:\\Загрузки\\Обучение\\Программирование\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\пользователь\\source\\repos\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya.csproj",
+        "projectUniqueName": "D:\\Загрузки\\Обучение\\Программирование\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya.csproj",
         "projectName": "TablizaUmnojeniya",
-        "projectPath": "C:\\Users\\пользователь\\source\\repos\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya.csproj",
+        "projectPath": "D:\\Загрузки\\Обучение\\Программирование\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya.csproj",
         "packagesPath": "C:\\Users\\пользователь\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\пользователь\\source\\repos\\TablizaUmnojeniya\\TablizaUmnojeniya\\obj\\",
+        "outputPath": "D:\\Загрузки\\Обучение\\Программирование\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

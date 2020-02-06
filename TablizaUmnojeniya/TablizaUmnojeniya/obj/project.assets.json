@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\пользователь\\source\\repos\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya.csproj",
+      "projectUniqueName": "D:\\Загрузки\\Обучение\\Программирование\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya.csproj",
       "projectName": "TablizaUmnojeniya",
-      "projectPath": "C:\\Users\\пользователь\\source\\repos\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya.csproj",
+      "projectPath": "D:\\Загрузки\\Обучение\\Программирование\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya.csproj",
       "packagesPath": "C:\\Users\\пользователь\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\пользователь\\source\\repos\\TablizaUmnojeniya\\TablizaUmnojeniya\\obj\\",
+      "outputPath": "D:\\Загрузки\\Обучение\\Программирование\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -9,3 +9,14 @@ C:\Users\пользователь\source\repos\TablizaUmnojeniya\TablizaUmnojeni
 C:\Users\пользователь\source\repos\TablizaUmnojeniya\TablizaUmnojeniya\obj\Debug\netcoreapp2.1\TablizaUmnojeniya.dll
 C:\Users\пользователь\source\repos\TablizaUmnojeniya\TablizaUmnojeniya\obj\Debug\netcoreapp2.1\TablizaUmnojeniya.pdb
 C:\Users\пользователь\source\repos\TablizaUmnojeniya\TablizaUmnojeniya\obj\Debug\netcoreapp2.1\TablizaUmnojeniya.csprojAssemblyReference.cache
+D:\Загрузки\Обучение\Программирование\TablizaUmnojeniya\TablizaUmnojeniya\TablizaUmnojeniya\bin\Debug\netcoreapp2.1\TablizaUmnojeniya.deps.json
+D:\Загрузки\Обучение\Программирование\TablizaUmnojeniya\TablizaUmnojeniya\TablizaUmnojeniya\bin\Debug\netcoreapp2.1\TablizaUmnojeniya.runtimeconfig.json
+D:\Загрузки\Обучение\Программирование\TablizaUmnojeniya\TablizaUmnojeniya\TablizaUmnojeniya\bin\Debug\netcoreapp2.1\TablizaUmnojeniya.runtimeconfig.dev.json
+D:\Загрузки\Обучение\Программирование\TablizaUmnojeniya\TablizaUmnojeniya\TablizaUmnojeniya\bin\Debug\netcoreapp2.1\TablizaUmnojeniya.dll
+D:\Загрузки\Обучение\Программирование\TablizaUmnojeniya\TablizaUmnojeniya\TablizaUmnojeniya\bin\Debug\netcoreapp2.1\TablizaUmnojeniya.pdb
+D:\Загрузки\Обучение\Программирование\TablizaUmnojeniya\TablizaUmnojeniya\TablizaUmnojeniya\obj\Debug\netcoreapp2.1\TablizaUmnojeniya.csprojAssemblyReference.cache
+D:\Загрузки\Обучение\Программирование\TablizaUmnojeniya\TablizaUmnojeniya\TablizaUmnojeniya\obj\Debug\netcoreapp2.1\TablizaUmnojeniya.csproj.CoreCompileInputs.cache
+D:\Загрузки\Обучение\Программирование\TablizaUmnojeniya\TablizaUmnojeniya\TablizaUmnojeniya\obj\Debug\netcoreapp2.1\TablizaUmnojeniya.AssemblyInfoInputs.cache
+D:\Загрузки\Обучение\Программирование\TablizaUmnojeniya\TablizaUmnojeniya\TablizaUmnojeniya\obj\Debug\netcoreapp2.1\TablizaUmnojeniya.AssemblyInfo.cs
+D:\Загрузки\Обучение\Программирование\TablizaUmnojeniya\TablizaUmnojeniya\TablizaUmnojeniya\obj\Debug\netcoreapp2.1\TablizaUmnojeniya.dll
+D:\Загрузки\Обучение\Программирование\TablizaUmnojeniya\TablizaUmnojeniya\TablizaUmnojeniya\obj\Debug\netcoreapp2.1\TablizaUmnojeniya.pdb

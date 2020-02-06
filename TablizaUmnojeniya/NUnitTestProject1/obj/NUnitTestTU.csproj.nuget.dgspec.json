@@ -1,17 +1,84 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\пользователь\\source\\repos\\TablizaUmnojeniya\\TablizaUmnojenya_Tests\\TablizaUmnojenya_Tests.csproj": {}
+    "D:\\Загрузки\\Обучение\\Программирование\\TablizaUmnojeniya\\TablizaUmnojeniya\\NUnitTestProject1\\NUnitTestTU.csproj": {}
   },
   "projects": {
-    "C:\\Users\\пользователь\\source\\repos\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya.csproj": {
+    "D:\\Загрузки\\Обучение\\Программирование\\TablizaUmnojeniya\\TablizaUmnojeniya\\NUnitTestProject1\\NUnitTestTU.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\пользователь\\source\\repos\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya.csproj",
-        "projectName": "TablizaUmnojeniya",
-        "projectPath": "C:\\Users\\пользователь\\source\\repos\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya.csproj",
+        "projectUniqueName": "D:\\Загрузки\\Обучение\\Программирование\\TablizaUmnojeniya\\TablizaUmnojeniya\\NUnitTestProject1\\NUnitTestTU.csproj",
+        "projectName": "NUnitTestTU",
+        "projectPath": "D:\\Загрузки\\Обучение\\Программирование\\TablizaUmnojeniya\\TablizaUmnojeniya\\NUnitTestProject1\\NUnitTestTU.csproj",
         "packagesPath": "C:\\Users\\пользователь\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\пользователь\\source\\repos\\TablizaUmnojeniya\\TablizaUmnojeniya\\obj\\",
+        "outputPath": "D:\\Загрузки\\Обучение\\Программирование\\TablizaUmnojeniya\\TablizaUmnojeniya\\NUnitTestProject1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\Загрузки\\Обучение\\Программирование\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya.csproj": {
+                "projectPath": "D:\\Загрузки\\Обучение\\Программирование\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.8.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.10.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.10.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Загрузки\\Обучение\\Программирование\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Загрузки\\Обучение\\Программирование\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya.csproj",
+        "projectName": "TablizaUmnojeniya",
+        "projectPath": "D:\\Загрузки\\Обучение\\Программирование\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya.csproj",
+        "packagesPath": "C:\\Users\\пользователь\\.nuget\\packages\\",
+        "outputPath": "D:\\Загрузки\\Обучение\\Программирование\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -45,73 +112,6 @@
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
-            }
-          },
-          "imports": [
-            "net461"
-          ],
-          "assetTargetFallback": true,
-          "warn": true
-        }
-      }
-    },
-    "C:\\Users\\пользователь\\source\\repos\\TablizaUmnojeniya\\TablizaUmnojenya_Tests\\TablizaUmnojenya_Tests.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\пользователь\\source\\repos\\TablizaUmnojeniya\\TablizaUmnojenya_Tests\\TablizaUmnojenya_Tests.csproj",
-        "projectName": "TablizaUmnojenya_Tests",
-        "projectPath": "C:\\Users\\пользователь\\source\\repos\\TablizaUmnojeniya\\TablizaUmnojenya_Tests\\TablizaUmnojenya_Tests.csproj",
-        "packagesPath": "C:\\Users\\пользователь\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\пользователь\\source\\repos\\TablizaUmnojeniya\\TablizaUmnojenya_Tests\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp2.1"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp2.1": {
-            "projectReferences": {
-              "C:\\Users\\пользователь\\source\\repos\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya.csproj": {
-                "projectPath": "C:\\Users\\пользователь\\source\\repos\\TablizaUmnojeniya\\TablizaUmnojeniya\\TablizaUmnojeniya.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp2.1": {
-          "dependencies": {
-            "Microsoft.NET.Test.Sdk": {
-              "target": "Package",
-              "version": "[15.8.0, )"
-            },
-            "Microsoft.NETCore.App": {
-              "target": "Package",
-              "version": "[2.1.0, )",
-              "autoReferenced": true
-            },
-            "NUnit3TestAdapter": {
-              "target": "Package",
-              "version": "[3.10.0, )"
-            },
-            "nunit": {
-              "target": "Package",
-              "version": "[3.10.1, )"
             }
           },
           "imports": [
